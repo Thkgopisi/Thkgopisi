@@ -13,7 +13,7 @@ This GitHub repository documents my journey from University projects to real-wor
 ---
 
 ## Projects
-*Loading...*
+* **Loading...**
 
 ## Contact Info
 
