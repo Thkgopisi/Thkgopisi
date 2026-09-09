@@ -17,8 +17,11 @@ As a **B.Sc. in IT graduate from the University of Botswana** and a **Network En
 ## Objectives
 
 **Implement Network Security & Secure Architectures**: Design enterprise topologies using **Cisco Network Security** fundamentals. This includes implementing access control lists (ACLs), explicit Virtual LANs (VLANs) for traffic isolation, secure routing protocols, and strict subnetting policies.
+
 **Securing Identity & Endpoint Systems**: Manage user accounts, role-based access control (RBAC), security groups, and domain security policies within **Active Directory**. Securely configure, patch, and deploy **Linux (Ubuntu) endpoints** across distributed environments.
+
 **Proactive Monitoring & Zero-Downtime Operations**: Leverage enterprise tools like **SolarWinds** to monitor network performance, detect anomalies, analyze core protocols (TCP/IP, DNS, DHCP), and execute deep-dive troubleshooting to prevent business-critical outages.
+
 **Build Secure Enterprise Applications**: Architect full-stack software applications featuring robust IAM integration, end-to-end data encryption patterns, and clean RESTful design.
 
 ## Projects
