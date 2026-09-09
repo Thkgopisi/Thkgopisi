@@ -20,7 +20,7 @@ This GitHub repository documents my journey from University projects to real-wor
 Feel free to reach out.
 
 * **Location:** Gaborone, Botswana
-* **LinkedIn:** [linkedin.com/in/thabang-k](https://linkedin.com/in/thabang-k)
+* **LinkedIn:** [Thabang](https://linkedin.com/in/thabang-k)
   
 
 
