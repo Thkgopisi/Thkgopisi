@@ -50,7 +50,8 @@ As a **B.Sc. in IT graduate from the University of Botswana** and a **Network En
 Feel free to reach out if you would like to discuss network infrastructure engineering, software automation, or enterprise system administration!
 
 * **Location:** Gaborone, Botswana
-* **LinkedIn:** [://linkedin.com](https://linkedin.com.in/thabang-k)
+* **LinkedIn:** [[https://linkedin.com/in/thabang-k]]
+  
 
 
 
