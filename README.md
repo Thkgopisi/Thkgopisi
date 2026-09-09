@@ -15,22 +15,7 @@ This GitHub repository documents my journey from **University projects** to real
 * **Implement Secure Network Architectures**: Design enterprise topologies utilizing core networking principles including Virtual LANs (VLANs), access control lists (ACLs), and routing protocols.
 * **Optimize Systems & Operations**: Apply practical hands-on experience in server management, infrastructure provisioning, and deep-dive troubleshooting to maintain zero downtime.
 
-## Featured Projects
+## Projects
 
-### Student Application Portal
-*Engineered a secure, full-stack enterprise web portal featuring identity and access management.*
-**Core Stack**: Developed utilizing a **Spring Boot** backend for secure business logic and an interactive **JavaScript** frontend.
-**Security & IAM**: Integrated **Keycloak** to establish robust user authentication, authorization, and Role-Based Access Control (RBAC).
-**Database & Workflow**: Designed a relational **MySQL** schema to handle student data safely, managing iteration via **Git**.
 
-### 🏛️ Procurement Workflow Automation App
-*Designed and engineered a localized web application during an IT Support internship at the Ministry of Justice and Correctional Services.*
-**Impact**: Automated manual approval workflows for the procurement department, accelerating operational tracking efficiency.
-**Infrastructure Context**: Balanced application deployment alongside active administration of core **Cisco** routers and switches.
-
-### 💾 End-to-End Backup Server Deployment
-*Physical and system architecture project executed for the Gaborone City Council.*
-*Deployment**: Managed infrastructure cabling, rack mounting, and full system configuration of an internal backup server.
-*Operations**: Successfully maintained 100% SLA compliance by deploying infrastructure under standard daily enterprise ticket volumes.
-
-*For EverY Project made. i will keep on updating*
+*Loading ...*
