@@ -43,5 +43,14 @@ As a **B.Sc. in IT graduate from the University of Botswana** and a **Network En
 * **Implementation**: Provisioned **Mitel IP phones**, mapping extensions, and designing explicit **Voice VLANs** to isolate and protect sensitive voice traffic from standard data networks.
 * **Skills Demonstrated**: Network traffic segmentation, Quality of Service (QoS) baselining, and network troubleshooting.
 
-**Skills Demonstrated**: Network traffic segmentation, Quality of Service (QoS) baselining, and network troubleshooting.
+---
+
+## Contact Info
+
+Feel free to reach out if you would like to discuss network infrastructure engineering, software automation, or enterprise system administration!
+
+* **Location:** Gaborone, Botswana
+* **LinkedIn:** [://linkedin.com](https://linkedin.com.in/thabang-k)
+
+
 
