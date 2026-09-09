@@ -4,7 +4,7 @@ I am a Network Engineer Intern at Ministry of Justice with enterprise IT experie
 
 I hold a Bachelor of Science Degree in Information Technology from University of Botswana, a Network Security certificate from Cisco and I am actively building my networking skill set through CCNA coursework focused on routing, switching, VLANs, subnetting, network troubleshooting and enterprise network fundamentals.
 
-In my current technical support experience, I have supported business-critical environments by resolving connectivity issues, working with Active Directory, troubleshooting DNS/DHCP-related problems and monitoring infrastructure using SolarWinds.  I was also tasked and trusted to audit and secure the Linux server infrastructure which will host a highly sensitive, high-profile national public opinion survey, giving me hands-on exposure to Linux-based devices, endpoint deployment, configuration and distributed infrastructure support.
+In my current technical support experience, I have supported business-critical environments by resolving connectivity issues, working with Active Directory, troubleshooting DNS/DHCP related problems.  I was also tasked and trusted to audit and secure the Linux server infrastructure which will host a highly sensitive, high-profile national public opinion survey, giving me hands-on exposure to Linux-based devices, endpoint deployment, configuration and distributed infrastructure support.
 
 ## Portfolio
 
