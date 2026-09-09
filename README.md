@@ -6,7 +6,7 @@ I hold a Bachelor of Science Degree in Information Technology from the Universit
 
 In my current technical support experience, I have supported business-critical environments by resolving connectivity issues, working with Active Directory, troubleshooting DNS/DHCP-related problems and monitoring infrastructure using SolarWinds. I also contributed to the deployment of 10+ Ubuntu-based Raspberry Pi systems, giving me hands-on exposure to Linux-based devices, endpoint deployment, configuration and distributed infrastructure support.
 
-## 👋 Welcome to My Portfolio
+## Portfolio
 
 This GitHub repository documents my journey from University projects to real-world enterprise infrastructure deployments, cybersecurity implementations, and software engineering. 
 
