@@ -24,21 +24,25 @@ As a **B.Sc. in IT graduate from the University of Botswana** and a **Network En
 ## Projects
 
 **Student Application Portal (Enterprise IAM & Security)**
+
 *Engineered a secure, full-stack enterprise web portal emphasizing identity access management.*
 * **Security & IAM**: Integrated **Keycloak** to establish robust user authentication, authorization, and strict Role-Based Access Control (RBAC).
 * **Core Stack**: Developed utilizing a **Spring Boot** backend for secure business logic, interactive **JavaScript** frontend, and a relational **MySQL** schema.
 
 **Procurement Workflow Automation App**
+
 *Designed and engineered a localized web application during my enterprise IT experience at the Ministry of Justice.*
 * **Impact**: Automated manual approval workflows for the procurement department, accelerating operational tracking and auditing efficiency.
 * **Infrastructure Context**: Maintained application stability alongside active configuration and security enforcement on core **Cisco** routers and switches.
 
 **Distributed Linux Endpoint Deployment (Ubuntu & Raspberry Pi)**
+
 *Configured and deployed 10+ distributed hardware endpoints to support localized agency operations.*
 * **Implementation**: Provisioned **Ubuntu-based Raspberry Pi systems**, configuring secure network endpoints, local policies, and remote access baselines.
 * **Skills Demonstrated**: Linux administration (CLI), secure endpoint deployment, configuration management, and distributed infrastructure support.
 
 **Enterprise Voice Traffic Isolation Lab**
+
 *Simulated production infrastructure deployment based on real-world enterprise work at the Ministry of Justice.*
 * **Implementation**: Provisioned **Mitel IP phones**, mapping extensions, and designing explicit **Voice VLANs** to isolate and protect sensitive voice traffic from standard data networks.
 * **Skills Demonstrated**: Network traffic segmentation, Quality of Service (QoS) baselining, and network troubleshooting.
