@@ -20,7 +20,7 @@ This GitHub repository documents my journey from University projects to real-wor
 Feel free to reach out.
 
 * **Location:** Gaborone, Botswana
-* **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com/in/thabang-k)
+* **LinkedIn:** [Thabang Kgopisi](https://linkedin.com/in/thabang-k)
 
   
 
