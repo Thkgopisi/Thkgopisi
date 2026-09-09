@@ -10,7 +10,7 @@ In my current technical support experience, I have supported business-critical e
 
 This GitHub repository documents my journey from **University projects** to real-world infrastructure deployments and software engineering. As a B.Sc. in IT graduate from **University of Botswana**, my primary objective is to showcase hands-on proficiency in bridging enterprise software development with secure network administration.
 
-## 🎯 Objectives
+## Objectives
 * **Build Scalable Enterprise Systems**: Design secure, full-stack web applications with robust role-based access controls (RBAC) and clean architectural patterns.
 * **Implement Secure Network Architectures**: Design enterprise topologies utilizing core networking principles including Virtual LANs (VLANs), access control lists (ACLs), and routing protocols.
 * **Optimize Systems & Operations**: Apply practical hands-on experience in server management, infrastructure provisioning, and deep-dive troubleshooting to maintain zero downtime.
