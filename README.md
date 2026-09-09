@@ -19,7 +19,7 @@ This GitHub repository documents my journey from University projects to real-wor
 
 Feel free to reach out.
 
-* ** [Thabang Kgopisi](https://linkedin.com/in/thabang-k)**
+*  [Thabang Kgopisi](https://linkedin.com/in/thabang-k)
 
   
 
