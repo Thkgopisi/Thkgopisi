@@ -19,7 +19,6 @@ This GitHub repository documents my journey from University projects to real-wor
 
 Feel free to reach out.
 
-* **Location:** Gaborone, Botswana
 * **LinkedIn:** [Thabang Kgopisi](https://linkedin.com/in/thabang-k)
 
   
