@@ -1,6 +1,6 @@
 ## About Me
 
-I am an aspiring IT support Engineer at Ministry of Justice with enterprise IT experience supporting users, systems and infrastructure across the MOJHQ and the departments under the ministry. My background includes hands-on troubleshooting of network connectivity issues, TCP/IP, DNS, DHCP, Active Directory, Windows Server environments and Linux administration.
+I am an IT support Engineer at Ministry of Justice with enterprise IT experience supporting users, systems and infrastructure across the MOJHQ and the departments under the ministry. My background includes hands-on troubleshooting of network connectivity issues, TCP/IP, DNS, DHCP, Active Directory, Windows Server environments and Linux administration.
 
 I hold a Bachelor of Science Degree in Information Technology from University of Botswana, a Network Security certificate from Cisco and I am actively building my networking skill set through CCNA coursework focused on routing, switching, VLANs, subnetting, network troubleshooting and enterprise network fundamentals.
 
