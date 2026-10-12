@@ -17,8 +17,6 @@ This GitHub repository documents my journey from University projects to real-wor
 
 ## Contact Info
 
-## Author
-
 **Thabang Kgopisi**  
 [LinkedIn](https://linkedin.com/in/thabang-k) · [GitHub](https://github.com/Thkgopisi) · thabangkgopisi@gmail.com
   
